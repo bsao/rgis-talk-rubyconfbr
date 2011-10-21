@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1318781962339" ID="ID_1457697596" MODIFIED="1318985985558" TEXT="Adding Where To &#xa;Your Ruby Apps">
+<node CREATED="1318781962339" ID="ID_1457697596" MODIFIED="1318986924165" TEXT="Adding Where To &#xa;Your Ruby Apps">
 <node CREATED="1318782092714" ID="ID_1978121505" MODIFIED="1318782101917" POSITION="right" TEXT="Apresenta&#xe7;&#xe3;o"/>
 <node CREATED="1318782104940" ID="ID_330115204" MODIFIED="1318782108180" POSITION="right" TEXT="O que &#xe9; GIS">
 <node CREATED="1318782109046" ID="ID_355006323" MODIFIED="1318782111233" TEXT="Sistema"/>
